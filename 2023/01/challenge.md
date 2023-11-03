@@ -39,6 +39,8 @@ submit perro3gato3coche1sol1
 
 # Response:
 
+ * ### My [C++](./index.cpp) solution.
+ * ### My [Python](./index.py) solution.
  * ### My [Javascript](./index.js) solution.
   
    
