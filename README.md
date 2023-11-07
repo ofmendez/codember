@@ -1,13 +1,13 @@
 <p align="center" width="300">
    <img align="center" width="500" src="./assets/codember.webp" />
-   <a href="https://codember.dev">
+   <a href="https://codember.dev/?lang=en">
    <h1 align="center"> 👨🏻‍💻 CODEMBER </h1>
    </a>
 </p>
 
-Here I'll upload my solutions of [codember](https://codember.dev) challenges, These solutions programmed by me, some in javascript, Python or perhaps others (c++, c#, Ruby, Bash, Rust... ).
+Here I'll upload my solutions of [codember](https://codember.dev/?lang=en) challenges, These solutions programmed by me, some in javascript, Python or perhaps others (c++, c#, Ruby, Bash, Rust... ).
 
-[codember](https://codember.dev) is an special event with multiple programming challenges, held in November by the  [midudev](https://github.com/midudev) community. Traditionally one challenge per week during this month. 
+[codember](https://codember.dev/?lang=en) is an special event with multiple programming challenges, held in November by the  [midudev](https://github.com/midudev) community. Traditionally one challenge per week during this month. 
 <br> 
 <br> 
 
