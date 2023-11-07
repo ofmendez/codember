@@ -38,6 +38,8 @@ Here I'll upload my solutions of [codember](https://codember.dev) challenges, Th
    <!-- $ submit 2023-12-01 -->
 
 <!-- </details> -->
+<br>
+
 ## Week 2
 
 <details> -->
@@ -63,3 +65,31 @@ Here I'll upload my solutions of [codember](https://codember.dev) challenges, Th
    <!--  -->
 
 </details>
+<br>
+
+## Week 3
+
+<details> -->
+<summary>Upcoming...</summary>
+<!-- <summary>Details</summary> -->
+
+   * ## 💻  [PROBLEM STATEMENT (En)](./2023/03/challenge.md) - [(Es)](./2023/03/challengeES.md) 
+
+   * ## MY SOLUTION (Same in multiple languages):
+
+   | Javascript | C++ | C# | Python | Ruby | Rust | Bash | 
+   | :-------: | :--: | :--: | :---: | :---: | :---: | :---: |
+   |[JS](./2023/03/index.js)|[CPP](./2023/03/index.cpp)|[CS](./2023/03/index.cs)|[PY](./2023/03/index.py)|[RB](./2023/03/index.rb)|[RS](./2023/03/index.rs)|[SH](./2023/03/index.sh)|
+
+
+ * ## ADDITIONAL SECRETS (hints)
+
+   * ##### 🕵️ - 
+   <!--   -->
+   * ##### 🕵️ - 
+   <!--  -->
+   * ##### 🕵️ -  
+   <!--  -->
+
+</details>
+<br>

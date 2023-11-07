@@ -1,15 +1,15 @@
 [⬅️ Back](../)
 
-# Challengue #02
+# Challengue #03
 
 
 
-**Más ejemplos:**
+**More Examples:**
 ``````
 ``````
 
 
-**Cómo resolverlo**
+**How to Solve It**
 
 
 
