@@ -2,40 +2,40 @@
 
 # Challengue #01
 
-Un espía está enviando mensajes encriptados.
+A spy is sending encrypted messages.
 
-Tu misión es crear un programa que nos ayude a buscar patrones...
+Your mission is to create a program that decodes the messages.
 
-Los mensajes son palabras separadas por espacios como este: 
+The messages are words separated by spaces like this: 
 ``````
-gato perro perro coche Gato peRRo sol
-``````
-
-Necesitamos que el programa nos devuelva el número de veces que aparece cada palabra en el mensaje, independientemente de si está en mayúsculas o minúsculas.
-
-El resultado será una cadena de texto con la palabra y el número de veces que aparece en el mensaje, con este formato:
-``````
-gato2perro3coche1sol1
+cat dog dog car Cat doG sun
 ``````
 
-¡Las palabras son ordenadas por su primera aparición en el mensaje!
+We need the program to return the number of times each word appears in the message, regardless of whether it is in uppercase or lowercase.
 
-**Más ejemplos:**
+The result will be a text string with the word and the number of times it appears in the message, in this format:
 ``````
-llaveS casa CASA casa llaves -> llaves2casa3 
-
-taza ta za taza -> taza2ta1za1 
-
-casas casa casasas -> casas1casa1casas1 
+cat2dog3car1sun1
 ``````
 
+The words are sorted by their first appearance in the message!
 
-**Cómo resolverlo**
+**More Examples:**
+``````
+keys house HOUSE house keys -> keys2house3 
 
-1. Resuelve el mensaje que encontrarás en este archivo: [message_01.txt](./message_01.txt)
+cup te a cup -> cup2te1a1 
 
-2. Envía tu solución con el comando "submit" en la terminal, por ejemplo así:
-submit perro3gato3coche1sol1
+houses house housess -> houses1house1housess1
+``````
+
+
+**How to Solve It**
+
+1. Solve the message you will find in this file: [message_01.txt](./message_01.txt)
+
+2. Submit your solution with the "submit" command in the terminal, for example like this:
+submit dog3cat3car1sun1
 
 
   <br>
