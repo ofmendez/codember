@@ -37,11 +37,7 @@ casas casa casasas -> casas1casa1casas1
 2. Envía tu solución con el comando "submit" en la terminal, por ejemplo así:
 submit perro3gato3coche1sol1
 
-  <br>
-
-
 
   <br>
-   
    
 [⬅️ Back](../../)
