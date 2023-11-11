@@ -42,8 +42,8 @@ Here I'll upload my solutions of [codember](https://codember.dev/?lang=en) chall
 
 ## Week 2
 
-<details> -->
-<summary>Upcoming...</summary>
+<!-- <details> -->
+<!-- <summary>Upcoming...</summary> --> -->
 <!-- <summary>Details</summary> -->
 
    * ## 💻  [PROBLEM STATEMENT (En)](./2023/02/challenge.md) - [(Es)](./2023/02/challengeES.md) 
@@ -52,7 +52,34 @@ Here I'll upload my solutions of [codember](https://codember.dev/?lang=en) chall
 
    | Javascript | C++ | C# | Python | Ruby | Rust | Bash | 
    | :-------: | :--: | :--: | :---: | :---: | :---: | :---: |
-   |[JS](./2023/02/index.js)|[CPP](./2023/02/index.cpp)|[CS](./2023/02/index.cs)|[PY](./2023/02/index.py)|[RB](./2023/02/index.rb)|[RS](./2023/02/index.rs)|[SH](./2023/02/index.sh)|
+   <!-- |[JS](./2023/02/index.js)|[CPP](./2023/02/index.cpp)|[CS](./2023/02/index.cs)|[PY](./2023/02/index.py)|[RB](./2023/02/index.rb)|[RS](./2023/02/index.rs)|[SH](./2023/02/index.sh)| -->
+
+
+ * ## ADDITIONAL SECRETS (hints)
+
+   * ##### 🕵️ - A famous language
+   <!--   -->
+   * ##### 🕵️ - 
+   <!--  -->
+   * ##### 🕵️ -  
+   <!--  -->
+
+<!-- </details> -->
+<br>
+
+## Week 3
+
+<details>
+<summary>Upcoming...</summary>
+<!-- <summary>Details</summary> -->
+
+   * ## 💻  [PROBLEM STATEMENT (En)](./2023/03/challenge.md) - [(Es)](./2023/03/challengeES.md) 
+
+   * ## MY SOLUTION (Same in multiple languages):
+
+   | Javascript | C++ | C# | Python | Ruby | Rust | Bash | 
+   | :-------: | :--: | :--: | :---: | :---: | :---: | :---: |
+   <!-- |[JS](./2023/03/index.js)|[CPP](./2023/03/index.cpp)|[CS](./2023/03/index.cs)|[PY](./2023/03/index.py)|[RB](./2023/03/index.rb)|[RS](./2023/03/index.rs)|[SH](./2023/03/index.sh)| -->
 
 
  * ## ADDITIONAL SECRETS (hints)
@@ -67,19 +94,19 @@ Here I'll upload my solutions of [codember](https://codember.dev/?lang=en) chall
 </details>
 <br>
 
-## Week 3
+## Week 4
 
-<details> -->
+<details>
 <summary>Upcoming...</summary>
 <!-- <summary>Details</summary> -->
 
-   * ## 💻  [PROBLEM STATEMENT (En)](./2023/03/challenge.md) - [(Es)](./2023/03/challengeES.md) 
+   * ## 💻  [PROBLEM STATEMENT (En)](./2023/04/challenge.md) - [(Es)](./2023/04/challengeES.md) 
 
    * ## MY SOLUTION (Same in multiple languages):
 
    | Javascript | C++ | C# | Python | Ruby | Rust | Bash | 
    | :-------: | :--: | :--: | :---: | :---: | :---: | :---: |
-   |[JS](./2023/03/index.js)|[CPP](./2023/03/index.cpp)|[CS](./2023/03/index.cs)|[PY](./2023/03/index.py)|[RB](./2023/03/index.rb)|[RS](./2023/03/index.rs)|[SH](./2023/03/index.sh)|
+   <!-- |[JS](./2023/04/index.js)|[CPP](./2023/04/index.cpp)|[CS](./2023/04/index.cs)|[PY](./2023/04/index.py)|[RB](./2023/04/index.rb)|[RS](./2023/04/index.rs)|[SH](./2023/04/index.sh)| -->
 
 
  * ## ADDITIONAL SECRETS (hints)
